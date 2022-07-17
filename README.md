@@ -5,7 +5,7 @@ Hi, there my name is Yazan👋<br><br>INFO <br>Date of Birth: 22/ May/2000. <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yazan-al-hemyari-48ba591b3/) 
 [![GitHub](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/https://github.com/YazanAl-hemyari)
-[![Website](https://img.shields.io/badge/icloud-%230077B5.svg?logo=portfolio&logoColor=white)](http://yazan-alhemyari.netlify.app/)  
+[![Website](https://img.shields.io/badge/portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](http://yazan-alhemyari.netlify.app/)  
 
 
 # 💻 Tech Stack:
